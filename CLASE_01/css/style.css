@@ -10,11 +10,10 @@
   filter: grayscale(100%);
   transition-duration: 1s;
   transition-delay: 0,5s;
-
   }
 
   .perfil img:hover {
     filter: grayscale(0%);
     transition-duration: 2s;
     transition-delay: 0,5s;
-    }
+  }
